@@ -292,7 +292,7 @@ Full-Width Styles
   background: -ms-linear-gradient(top, #373737, #212121);
   background: -o-linear-gradient(top, #373737, #212121);
   background: linear-gradient(top, #373737, #212121);
-  background-image:http://jody.se/test/wp-content/uploads/2013/11/Aktiviteter-stockholm-skyline.jpg;
+  background-image: url('http://jody.se/test/wp-content/uploads/2013/11/Aktiviteter-stockholm-skyline.jpg');
 }
 
 #header_wrap .inner {
